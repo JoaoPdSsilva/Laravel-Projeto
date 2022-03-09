@@ -12,7 +12,12 @@ Estudo de Laravel pelo canal DFILITTO no youtube:
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=z1kkWw2hptI&list=PLfvOpw8k80Wph98P15-_Gkc7uMaUgYY2D)
 
 # Primeiro Projeto "Demonstração do Laravel"
+ <img src="">
 <br>
+
+ # Criando uma rota para aprender
+ <br>
+  <img src="https://user-images.githubusercontent.com/60629168/157443212-2a1a9fe0-833a-441d-bd5e-e1a356a1e0b9.png">
 
 # Segundo Projeto "Matematica"
  "/tabuada/{num}" para calcular algum número 
