@@ -20,8 +20,14 @@ Estudo de Laravel pelo canal DFILITTO no youtube:
   <img src="https://user-images.githubusercontent.com/60629168/157443212-2a1a9fe0-833a-441d-bd5e-e1a356a1e0b9.png">
 
 # Segundo Projeto "Matematica"
- "/tabuada/{num}" para calcular algum número 
+ Criando rota "/tabuada/{num}" com apenas 1 parametro
   
   <br>
 <img src="https://user-images.githubusercontent.com/60629168/157442942-f821a59d-57bc-4d3a-bea8-d3c85c3ebd28.png">
+
+<br>
+
+Criando rota "/usuario/{nome}/{sobrenome}" com 2 parametros
+<br>
+"![imagem_2022-03-09_094540](https://user-images.githubusercontent.com/60629168/157444380-6a7d418d-1d97-4733-b894-fc08d3b086a1.png)
 
