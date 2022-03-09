@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/Joao', function () {
+    echo "Meu é João Pedro e estou estudando laravel";
+});
