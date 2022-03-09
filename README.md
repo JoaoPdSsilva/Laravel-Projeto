@@ -13,4 +13,8 @@ Estudo de Laravel pelo canal DFILITTO no youtube:
 
 # Primeiro Projeto "Demonstração do Laravel"
 <br>
+
 # Segundo Projeto "Matematica"
+  /tabuada/{num} para calcular algum número
+
+
